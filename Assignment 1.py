@@ -1,7 +1,8 @@
+# Instructions: change the value in outputFile.write('500 \n') to 125n where n is the number of "prints: in the function.
+# note the additional instructions at end of code
 
 outputFile = open('file.xyz', 'w')
 
-#need to change number to n124 where n is the cumber of 'prints' in a code
 outputFile.write('500 \n')
 outputFile.write(' \n')
     
@@ -264,6 +265,7 @@ def edge_centered_orthorhombic():
             y = y + 2
         x = x + 3
 
+# Write the function name which you would like to run here
 face_centered_cubic()
 
 outputFile.close()
