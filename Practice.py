@@ -1,4 +1,4 @@
-
+print 'hello world'
 
 def body_centered_cubic():
     x=0.5
